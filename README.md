@@ -2,8 +2,8 @@
 
 ## Hi there! 👋
 
-- 🎓 I'm a critical thinker and data scientist
-- 🚀 Writing my master thesis on large language models and innovation
+- 🚀 I'm a data scientist working in the medical field
+- 🎓 Wrote my master thesis on large language models and innovation
 - 🌱 Currently learning image recognition with convolutional neural networks
 - 💬 Ask me about anything!
 - 😄 They/them
