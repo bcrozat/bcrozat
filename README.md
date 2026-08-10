@@ -3,6 +3,6 @@
 ## Hi there! 👋
 - 🚀 Data scientist working in the medical field
 - 🎓 Master thesis on large language models and innovation
-- 🌱 Learning machine learning for classification, segmentation, and object detection
+- 🌱 Currently learning reinforcement learning
 - 💬 Ask me about anything!
 - 😄 They/them
