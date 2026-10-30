@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 - 🚀 Data scientist working in the medical field
+- ✨ Digital and sonic artist 
 - 🎓 Master thesis on large language models and innovation
 - 🌱 Currently learning reinforcement learning
 - 💬 Ask me about anything!
-- 😄 They/them
